@@ -32,6 +32,9 @@ Appery.AppPages = [{
 }, {
     "name": "searchJobPage",
     "location": "searchJobPage.html"
+},	{
+    "name": "startScreen",
+    "location": "startScreen.html"
 }];
 
 searchJobPage_js = function(runBeforeShow) { /* Object & array with components "name-to-id" mapping */
